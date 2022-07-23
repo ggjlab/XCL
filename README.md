@@ -9,7 +9,7 @@ We perform highly parallel single-cell transcriptomics with Microwell-seq to con
 
 DGE Data: [GSE195790](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE195790)
 
-Processed single-cell data: https://doi.org/10.6084/m9.figshare.19152839
+Processed scRNA-seq data: https://doi.org/10.6084/m9.figshare.19152839
 
 XCL: http://bis.zju.edu.cn/XCL/
 
