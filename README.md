@@ -16,4 +16,4 @@ XCL: http://bis.zju.edu.cn/XCL/
 ## Citation
 Please cite the corresponding protocol published concurrently to this repository:
 
-Yuan Liao, Lifeng Ma, Qile Guo, Weigao E, Xing Fang, Lei Yang, Fanwei Ruan, Jingjing Wang, Peijing Zhang, Zhongyi Sun, Haide Chen, Zhongliang Lin, Xueyi Wang, Xinru Wang, Huiyu Sun, Xiunan Fang, Yincong Zhou, Ming Chen, Wanhua Shen, Guoji Guo and Xiaoping Han. Cell landscape of larval and adult Xenopus laevis at single-cell resolution. *Nature Communication*, 2022.
+Liao, Y., Ma, L., Guo, Q. et al. Cell landscape of larval and adult Xenopus laevis at single-cell resolution. *Nat Commun* **13**, 4306 (2022). https://doi.org/10.1038/s41467-022-31949-2
